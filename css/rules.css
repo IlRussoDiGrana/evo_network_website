@@ -20,13 +20,13 @@
   /* Website Color Themes */
   /* Main Color */
   .main-f-color {
-    color: rgb(112, 215, 94);
+    color: black;
     transition: 0.4s;
   }
   /* Color when hovering by the mouse pointer */
   .main-f-color:hover {
-    box-shadow: 0 0 7px 2px rgb(65, 179, 45);   
-    color: rgb(65, 179, 45);   
+    box-shadow: 0 0 7px 2px black;   
+    color: black;   
     transition: 0.4s; 
   }
   
